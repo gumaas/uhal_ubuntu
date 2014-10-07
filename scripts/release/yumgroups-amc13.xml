@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comps>
+<group>
+<id>cactus-amc13</id>
+<name>amc13</name>
+<default>true</default>
+<description>amc13 driver packages; part of the CACTUS YUM repositories</description>
+<uservisible>true</uservisible>
+<grouplist></grouplist>
+<packagelist>
+<packagereq type="mandatory">cactusboards-amc13-amc13</packagereq>
+<packagereq type="mandatory">cactusboards-amc13-tools</packagereq>
+</packagelist>
+</group>
+
+</comps>
+

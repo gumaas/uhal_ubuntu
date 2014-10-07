@@ -1,0 +1,13 @@
+[TS13beta-base]
+name=Trigger Supervisor 1.13.0beta Software Repository
+baseurl=http://www.cern.ch/cactus/release/TS13beta/slc6_x86_64/base/RPMS
+enabled=1
+gpgcheck=0
+
+
+[TS13beta-updates]
+name=Trigger Supervisor 1.13.0beta Software Repository Updates
+baseurl=http://www.cern.ch/cactus/release/TS13beta/slc6_x86_64/updates/RPMS
+enabled=1
+gpgcheck=0
+

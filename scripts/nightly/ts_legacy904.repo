@@ -1,0 +1,9 @@
+[ts-legacy-904]
+name=CACTUS Project Software Repository
+baseurl=http://www.cern.ch/cactus/release/2.2/slc5_x86_64/base/RPMS
+enabled=1
+gpgcheck=0
+
+
+
+

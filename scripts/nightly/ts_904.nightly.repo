@@ -1,0 +1,9 @@
+[ts-nightly]
+name=CACTUS Project Software Repository
+baseurl=http://www.cern.ch/cactus/nightly/subsystem_legacy904.py/<platform>/RPMS
+enabled=1
+gpgcheck=0
+
+
+
+

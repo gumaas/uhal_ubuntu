@@ -1,0 +1,34 @@
+[xdaq]
+name=XDAQ Software Base
+baseurl=https://xdaq.web.cern.ch/xdaq/repo/11/slc5x/x86_64/base/RPMS/
+timeout=120
+enabled=1
+gpgcheck=0
+
+[xdaq-sources]
+name=XDAQ Software Base Sources
+baseurl=https://xdaq.web.cern.ch/xdaq/repo/11/slc5x/x86_64/base/SRPMS/
+timeout=120
+enabled=0
+gpgcheck=0
+
+[xdaq-updates]
+name=XDAQ Software Updates
+baseurl=https://xdaq.web.cern.ch/xdaq/repo/11/slc5x/x86_64/updates/RPMS/
+timeout=120
+enabled=1
+gpgcheck=0
+
+[xdaq-updates-sources]
+name=XDAQ Software Updates Sources
+baseurl=https://xdaq.web.cern.ch/xdaq/repo/11/slc5x/x86_64/updates/SRPMS/
+timeout=120
+enabled=0
+gpgcheck=0
+
+[xdaq-extras]
+name=XDAQ Software Extras
+baseurl=https://xdaq.web.cern.ch/xdaq/repo/11/slc5x/x86_64//extras/RPMS/
+timeout=120
+enabled=1
+gpgcheck=0

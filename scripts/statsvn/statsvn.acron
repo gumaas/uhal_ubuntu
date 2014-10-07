@@ -1,0 +1,1 @@
+0 0 * * * cactus-nightly.cern.ch /afs/cern.ch/user/c/cactus/statsvn/statsvn.sh &> /afs/cern.ch/user/c/cactus/www/nightly/logs/statsvn.log

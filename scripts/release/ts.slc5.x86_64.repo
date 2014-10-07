@@ -1,0 +1,12 @@
+[ts-base]
+name=Trigger Supervisor Framework 1.12.1 Base
+baseurl=http://www.cern.ch/l1ts/ts1.12.1/slc5_x64/base/RPMS
+enabled=1
+gpgcheck=0
+
+[ts-updates]
+name=Trigger Supervisor Framework 1.12.1 Updates
+baseurl=http://www.cern.ch/l1ts/ts1.12.1/slc5_x64/updates/RPMS
+enabled=1
+gpgcheck=0
+

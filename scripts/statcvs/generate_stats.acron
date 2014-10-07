@@ -1,0 +1,1 @@
+0 0 * * * lxplus.cern.ch /afs/cern.ch/project/l1ts/statcvs-0.3/generate_stats.sh

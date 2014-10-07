@@ -1,0 +1,9 @@
+[subsystem-dev-nightly]
+name=CACTUS Project Software Repository
+baseurl=http://www.cern.ch/cactus/nightly/subsystem_dev.py/<platform>/RPMS
+enabled=1
+gpgcheck=0
+
+
+
+
