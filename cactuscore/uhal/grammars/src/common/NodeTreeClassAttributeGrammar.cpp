@@ -30,9 +30,9 @@
 ---------------------------------------------------------------------------
 */
 
-#include "uhal/grammars/NodeTreeClassAttributeGrammar.hpp"
 
 #include <boost/spirit/include/qi.hpp>
+#include "uhal/grammars/NodeTreeClassAttributeGrammar.hpp"
 
 namespace grammars
 {

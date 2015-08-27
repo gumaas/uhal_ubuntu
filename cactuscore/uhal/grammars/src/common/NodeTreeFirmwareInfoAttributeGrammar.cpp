@@ -30,9 +30,9 @@
 ---------------------------------------------------------------------------
 */
 
-#include "uhal/grammars/NodeTreeFirmwareInfoAttributeGrammar.hpp"
 
 #include <boost/spirit/include/qi.hpp>
+#include "uhal/grammars/NodeTreeFirmwareInfoAttributeGrammar.hpp"
 
 namespace grammars
 {
