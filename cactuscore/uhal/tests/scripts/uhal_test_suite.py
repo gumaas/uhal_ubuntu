@@ -728,7 +728,9 @@ if __name__=="__main__":
 
                 if len(stdout) and not verbose:
                     print stdout[-1].rstrip("\n")
-                if exit_code:
+                if exit_code==-15:
+                  print "Error code returned by pkill. This shouldn't be an error (MG)"
+                elif exit_code:
                     split_name_list = re.split('(\.exe)',cmd)
                     split_name = split_name_list[0]
                     if len( split_name_list ) > 1:
