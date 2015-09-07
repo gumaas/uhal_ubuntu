@@ -18,6 +18,7 @@ sudo ln -sf g++-4.4 g++
 ls -l gcc*
 ls -l g++*
 
+echo "Make sure that gcc is linked to gcc-4.4 and g++ is linked to g++-4.4"
 read -p "Press Enter to continue" 
 
 cd "$bck_dir"
@@ -33,3 +34,4 @@ sudo ln -sf $bck_gpp g++
 
 ls -l gcc*
 ls -l g++*
+echo "Make sure that gcc and g++ are linked to the latest compiler versions"
